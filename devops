@@ -1,1 +1,5 @@
 add devops realated operations
+pipeline {
+stages {
+}
+}
